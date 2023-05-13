@@ -1,5 +1,5 @@
 ### Hello there :wave:
-I'm Johan, aka Impossible Reality, a coder who enjoys Rust, Node.js and front-end development.
+I'm Johan--aka Impossible Reality--a coder who enjoys doing full-stack web development using Rust, Svelte, and Elixir.
 
 ---
  
